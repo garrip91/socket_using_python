@@ -1,0 +1,8 @@
+__pycache__/*
+.pytest_cache/*
+*.pyc
+socket_using_python_GitHubToken.txt
+venv/
+.git/*
+.vscode/*
+
